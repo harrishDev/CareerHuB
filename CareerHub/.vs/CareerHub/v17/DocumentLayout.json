@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\dao\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\dao\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\exception\\negativesalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\exception\\negativesalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\exception\\invalidemailformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\exception\\invalidemailformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\exception\\fileuploadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\exception\\fileuploadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\exception\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\exception\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\exception\\applicationdeadlineexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\exception\\applicationdeadlineexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\dao\\idatabasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\dao\\idatabasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\entity\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\entity\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\entity\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\entity\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\entity\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\entity\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\db.properties||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\db.properties||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|c:\\users\\lenovo\\onedrive\\desktop\\hari\\csharptraining\\console demo\\careerhub\\careerhub\\careerhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A425CC07-A4BC-482C-BDF1-64FEC81B23B8}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\careerhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\FileUploadException.cs",
+              "RelativeDocumentMoniker": "CareerHub\\exception\\FileUploadException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\FileUploadException.cs",
+              "RelativeToolTip": "CareerHub\\exception\\FileUploadException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:29:53.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidEmailFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\InvalidEmailFormatException.cs",
+              "RelativeDocumentMoniker": "CareerHub\\exception\\InvalidEmailFormatException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\InvalidEmailFormatException.cs",
+              "RelativeToolTip": "CareerHub\\exception\\InvalidEmailFormatException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:29:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NegativeSalaryException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\NegativeSalaryException.cs",
+              "RelativeDocumentMoniker": "CareerHub\\exception\\NegativeSalaryException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\NegativeSalaryException.cs",
+              "RelativeToolTip": "CareerHub\\exception\\NegativeSalaryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:29:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\dao\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "CareerHub\\dao\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\dao\\DatabaseManager.cs",
+              "RelativeToolTip": "CareerHub\\dao\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:29:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\Program.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\Program.cs",
+              "RelativeToolTip": "CareerHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:26:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\Company.cs",
+              "RelativeDocumentMoniker": "CareerHub\\entity\\Company.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\Company.cs",
+              "RelativeToolTip": "CareerHub\\entity\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:28:30.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\util\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "CareerHub\\util\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\util\\DBConnUtil.cs",
+              "RelativeToolTip": "CareerHub\\util\\DBConnUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:30:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnectionException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\DatabaseConnectionException.cs",
+              "RelativeDocumentMoniker": "CareerHub\\exception\\DatabaseConnectionException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\DatabaseConnectionException.cs",
+              "RelativeToolTip": "CareerHub\\exception\\DatabaseConnectionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:30:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDeadlineException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\ApplicationDeadlineException.cs",
+              "RelativeDocumentMoniker": "CareerHub\\exception\\ApplicationDeadlineException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\exception\\ApplicationDeadlineException.cs",
+              "RelativeToolTip": "CareerHub\\exception\\ApplicationDeadlineException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:30:03.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\dao\\IDatabaseManager.cs",
+              "RelativeDocumentMoniker": "CareerHub\\dao\\IDatabaseManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\dao\\IDatabaseManager.cs",
+              "RelativeToolTip": "CareerHub\\dao\\IDatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:29:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\Applicant.cs",
+              "RelativeDocumentMoniker": "CareerHub\\entity\\Applicant.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\Applicant.cs",
+              "RelativeToolTip": "CareerHub\\entity\\Applicant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:28:41.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\JobApplication.cs",
+              "RelativeDocumentMoniker": "CareerHub\\entity\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\JobApplication.cs",
+              "RelativeToolTip": "CareerHub\\entity\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:28:52.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\JobListing.cs",
+              "RelativeDocumentMoniker": "CareerHub\\entity\\JobListing.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\entity\\JobListing.cs",
+              "RelativeToolTip": "CareerHub\\entity\\JobListing.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA4wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:28:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "db.properties",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\db.properties",
+              "RelativeDocumentMoniker": "CareerHub\\db.properties",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\db.properties",
+              "RelativeToolTip": "CareerHub\\db.properties",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T04:47:16.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CareerHub.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\CareerHub.csproj",
+              "RelativeDocumentMoniker": "CareerHub\\CareerHub.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\hari\\csharptraining\\console demo\\CareerHub\\CareerHub\\CareerHub.csproj",
+              "RelativeToolTip": "CareerHub\\CareerHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T04:28:02.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
